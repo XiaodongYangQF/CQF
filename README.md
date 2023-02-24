@@ -1,2 +1,2 @@
 # CQF
-The CQF is highly technical and requires a solid foundation in mathematics, statistics, and programming.
+The CQF program covers a wide range of topics, including derivatives pricing and modeling, risk management, portfolio management, financial computing, and numerical methods.
